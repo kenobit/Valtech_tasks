@@ -137,7 +137,6 @@ namespace MegaPaint
             /// </summary>
             private void InvokeColorPicker()
             {
-
                 ColorDialog dialogColor = new ColorDialog();
 
                 if (dialogColor.ShowDialog() == DialogResult.OK)
@@ -150,7 +149,7 @@ namespace MegaPaint
             /// Color randomisation
             /// </summary>
             /// <returns>Random color from Color.Enum</returns>
-            private Color RanCol()
+            private Color RanCol2()
             {
                 Random randomGen = new Random();
                 KnownColor[] names = (KnownColor[])Enum.GetValues(typeof(KnownColor));
@@ -158,6 +157,13 @@ namespace MegaPaint
                 Color randomColor = Color.FromKnownColor(randomColorName);
                 return randomColor;
             }
+            
+            private Color RanCol()
+        {
+            Random r = new Random();
+
+            return Color.FromArgb(r.Next(0, 255), r.Next(0, 255), r.Next(0, 255));
+        }
 
             /// <summary>
             /// Extra method for Extras panel
@@ -197,7 +203,6 @@ namespace MegaPaint
             /// </summary>
             private void SaveFile()
             {
-
                 SaveDialog.Filter = "Image Files(*.BMP;)|*.BMP|Image Files(*.JPG;)|*.jpg|Image Files(*.GIF;)|*.gif|Image Files(*.PNG;)|*.png|Image Files(*.TIFF;)|*.tiff|Image Files(*.ICON;)|*.ico;";
                 if (SaveDialog.ShowDialog() != DialogResult.OK)
                 {
