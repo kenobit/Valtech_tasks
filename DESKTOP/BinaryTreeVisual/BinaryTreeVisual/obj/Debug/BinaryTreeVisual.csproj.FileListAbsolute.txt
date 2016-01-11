@@ -1,0 +1,12 @@
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\bin\Debug\BinaryTreeVisual.exe.config
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\bin\Debug\BinaryTreeVisual.exe
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\bin\Debug\BinaryTreeVisual.pdb
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.csprojResolveAssemblyReference.cache
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.MainWND.resources
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.Properties.Resources.resources
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.csproj.GenerateResource.Cache
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.exe
+D:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\bin\Debug\BinaryTreeVisual.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.exe
+C:\Dropbox\ValtechProjects\DESKTOP\BinaryTreeVisual\BinaryTreeVisual\obj\Debug\BinaryTreeVisual.pdb

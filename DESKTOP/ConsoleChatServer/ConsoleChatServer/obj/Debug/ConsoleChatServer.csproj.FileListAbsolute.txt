@@ -1,0 +1,6 @@
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.exe
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="TwoPlayers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TwoPlayers"
+        mc:Ignorable="d"
+        Title="Game" Height="652.415" Width="1534.466" ScrollViewer.VerticalScrollBarVisibility="Disabled" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize">
+    <Grid x:Name="mainGrid" Background="#FF6A6A6A" Margin="0,0,-38,2">
+        <Grid x:Name="playerOneGrid" HorizontalAlignment="Left" Height="568" Margin="10,10,0,0" VerticalAlignment="Top" Width="760" Background="White"/>
+        <Grid x:Name="playerTwoGrid" HorizontalAlignment="Left" Height="568" Margin="782,10,-14,0" VerticalAlignment="Top" Width="760" Background="White" ScrollViewer.VerticalScrollBarVisibility="Disabled" SnapsToDevicePixels="True"/>
+    </Grid>
+</Window>

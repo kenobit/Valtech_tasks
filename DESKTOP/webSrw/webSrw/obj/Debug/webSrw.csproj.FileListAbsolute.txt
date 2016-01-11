@@ -1,0 +1,6 @@
+C:\Dropbox\ValtechProjects\DESKTOP\webSrw\webSrw\bin\webSrw.dll.config
+C:\Dropbox\ValtechProjects\DESKTOP\webSrw\webSrw\bin\webSrw.dll
+C:\Dropbox\ValtechProjects\DESKTOP\webSrw\webSrw\bin\webSrw.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\webSrw\webSrw\obj\Debug\webSrw.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\DESKTOP\webSrw\webSrw\obj\Debug\webSrw.dll
+C:\Dropbox\ValtechProjects\DESKTOP\webSrw\webSrw\obj\Debug\webSrw.pdb

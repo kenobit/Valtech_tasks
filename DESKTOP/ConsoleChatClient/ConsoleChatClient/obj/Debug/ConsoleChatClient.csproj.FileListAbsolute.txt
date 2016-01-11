@@ -1,0 +1,5 @@
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.exe
+C:\Dropbox\ValtechProjects\DESKTOP\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.pdb

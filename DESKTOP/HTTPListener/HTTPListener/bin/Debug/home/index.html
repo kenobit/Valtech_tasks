@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTMLforms - Новая нескучная игра</title>
+		<style type="text/css">
+	 DIV{
+				padding:50px 20px;
+				width:40%;
+				height:100%;
+				margin-left:30%;
+				margin-top:20px;
+				background: rgba(204,204,204,0.4);
+				filter: progid:DXImageTransform.Microsoft.Alpha(opacity=60);
+				zoom: 1;
+				border: 1px solid #aaaaaa;
+			  }
+</style>
+	</head>
+	
+	<body background="images/bg.jpg" bgproperties="fixed" style="background-size:100%">
+		<div align="center" name="face">
+			<img src="images/header.png" style="width: 80%" />
+			<form action="index.html" enctype="multipart/form-data" method="get" name="test" target="_blank"> 
+				<fieldset>
+				<legend>Registration</legend>
+					
+					Login: <input name="reg_login" type="text" maxlength="30"  /><br />
+					Password: <input name="reg_pass" type="password" /><br />
+					Retype password <input name="reg_pass_validation" type="password" /><br /><hr />
+					First name: <input name="reg_fname" type="text" /><br />
+					Second name: <input name="reg_lname" type="text" /><br />
+					
+					<input name="reg_gender" value="female" type="radio" />
+					<img src="images/gender.png" height="50px">
+					<input name="reg_gender" value="male" type="radio" />
+					
+					<br />
+					Country: <input name="reg_country" type="text" /><br />
+					City: <input name="reg_city" type="text" /><br />
+					Birthday year range	<select size="1" name="reg_Birth_day">
+						<option value="y60">1960-1969</option>
+						<option value="y70">1970-1979</option>
+						<option value="y80">1980-1989</option>
+						<option value="y90">1990-1999</option>
+						<option value="y00">2000-2009</option>
+					</select><br />
+					<hr />
+
+					Choose class:<br /> 
+					<img src="images/Engineer.png" height="150px">
+					<img src="images/Medic.png" height="140px">
+					<img src="images/Sniper.png" height="150px">
+					<img src="images/Soldier.png" height="150px">
+					<br />
+					<input name="reg_trooperType" value="Engineer" type="radio" />Engineer 
+					<input name="reg_trooperType" value="Medic" type="radio" />Medic 
+					<input name="reg_trooperType" value="Sniper" type="radio" />Sniper 
+					<input name="reg_trooperType" value="Soldier" type="radio" />Soldier 
+					<br />
+					Unique gamer TAG: <input name="reg_TAG" type="text" maxlength="18"  /><br />
+					<hr />
+					<input name="reg_18" type="checkbox" />I'm 18 y.o
+					<input name="reg_EULA_Agree" type="checkbox" /> I'm reed EULA and Agree<br /> 
+
+					<textarea cols="40" rows="10">THIS SOFTWARE IS LICENSED, NOT SOLD. Sega Corporation of 1-2-12, Haneda, Ohta-ku, Tokyo, 144-8531 Japan and its affiliated companies (collectively, "SEGA" or "We") reserves all rights not expressly granted to you. The product that is subject to this license is referred to in this license as the "Game Software."
+					If you have any questions about this agreement, you can reach SEGA at 27 Great West Road, Brentford, Middlesex, TW8 9BW, England, Attn. Legal Department.
+					This is a legal agreement between you and SEGA. Please review this End User License Agreement ("Agreement") carefully before installing, accessing or utilizing the game you have just purchased ("GAME SOFTWARE") and please inquire about anything you do not understand. If you are not eighteen (18) years of age, have your parents review this Agreement. By installing, copying and/or otherwise using the Game Software you are signifying your acknowledgement, acceptance and agreement to this Agreement.
+					IMPORTANT - READ CAREFULLY: BY INSTALLING, COPYING AND/OR OTHERWISE USING THIS GAME SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT AND THE TERMS SET FORTH BELOW. THE "GAME SOFTWARE" INCLUDES ALL SOFTWARE INCLUDED WITH THE VIDEO GAME, THE ASSOCIATED MEDIA, ANY UPDATES AND UPGRADES THAT REPLACE OR SUPPLEMENT THE SOFTWARE THAT ARE NOT DISTRIBUTED WITH A SEPARATE LICENSE, THE ASSOCIATED MEDIA, ANY SOFTWARE ASSOCIATED WITH THE ONLINE MODE OF THE VIDEO GAME, ANY PRINTED MATERIALS, ANY ONLINE OR ELECTRONIC DOCUMENTATION, AND ANY AND ALL COPIES OF SUCH SOFTWARE AND MATERIALS. THE AGREEMENT, AS AMENDED FROM TIME TO TIME AND PUBLISHED AT http://www.sega.co.uk/terms, INCORPORATES THE SEGA PRIVACY POLICY (PUBLISHED AT http://www.sega.co.uk/privacy). BY OPENING THE GAME SOFTWARE, INSTALLING, AND/OR USING THE GAME SOFTWARE AND ANY OTHER MATERIALS INCLUDED WITH THE GAME SOFTWARE, AND ANY UPDATES AND UPGRADES THERETO, YOU HEREBY ACCEPT THE TERMS OF THIS AGREEMENT WITH SEGA. THE AGREEMENT APPLIES TO ALL USERS OF THE GAME SOFTWARE, INCLUDING USERS WHO ARE ALSO CONTRIBUTORS OF CONTENT, INFORMATION, AND OTHER MATERIALS OR SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU ARE NOT PERMITTED TO INSTALL, COPY OR OTHERWISE USE THE GAME SOFTWARE. YOUR REMEDY FOR DISSATISFACTION WITH THE GAME SOFTWARE OR ANY PRODUCTS, CONTENT, OR OTHER INFORMATION MADE AVAILABLE BY OR THROUGH SEGA, IS TO STOP USING THE GAME SOFTWARE. YOUR AGREEMENT WITH SEGA REGARDING COMPLIANCE WITH THE AGREEMENT BECOMES EFFECTIVE IMMEDIATELY UPON COMMENCEMENT OF YOUR USE OF THE GAME SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS SET FORTH IN THIS AGREEMENT, DO NOT DOWNLOAD OR USE THE GAME SOFTWARE, AND SEGA SHALL NOT GRANT TO YOU THE LICENSE TO INSTALL AND USE THE GAME SOFTWARE. SEGA requests that you contact one of the customer service centers advertised in the information accompanying the Game Software. Please note that there may be a charge for the telephone call to the customer service center.</textarea>
+					<br />
+					<input name="Reset1" type="reset" value="reset" />
+					<input name="Submit1" type="submit" value="submit" />
+				</fieldset>
+
+				</form>
+			
+
+		</div>
+	</body>
+</html>

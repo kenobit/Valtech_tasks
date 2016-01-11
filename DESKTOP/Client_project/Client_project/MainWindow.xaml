@@ -1,0 +1,17 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_project"
+        xmlns:Views="clr-namespace:Client_project.Views"
+        x:Class="Client_project.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="352.225" Width="622.881">
+    <Grid>
+        <DockPanel LastChildFill="False">
+            <Views:Account DockPanel.Dock="Left" ClientConnector="{Binding Path=ClientConnector, Mode=OneWay}" Height="321" VerticalAlignment="Top"/>
+            <Views:Rank DockPanel.Dock="Right"  Height="321" VerticalAlignment="Top"/>
+
+        </DockPanel>
+    </Grid>
+</Window>

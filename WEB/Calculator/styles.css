@@ -1,0 +1,94 @@
+*{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn{
+    padding: 5px;
+    background-color: floralwhite;
+    border: 1px solid #333;
+    display: inline-block;
+    margin: 2px;
+        box-shadow: 1px 2px #333;
+        -webkit-box-shadow: 1px 2px #333;
+        -moz-box-shadow: 1px 2px #333;
+        -o-box-shadow: 1px 2px #333;
+        -ms-box-shadow: 1px 2px #333;
+cursor: pointer;
+
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+}
+.btn:active{
+    background-color: aqua;
+}
+
+.clear_btn {
+}
+.clear_btn:hover{
+    border: 1px solid #aaa;
+    cursor: pointer;
+    background-color: crimson;
+    color: white;
+}
+
+.num_btn {
+    border-radius: 7px;
+    width: 100px;
+    height: 100px;
+    font-size: 62pt;
+}
+.num_btn:last-child{
+    width: 340px;
+}
+
+.operatorsBlock {
+    display: ;
+}
+
+.operator_btn {
+    border-radius: 4px;
+    width: 50px;
+    height: 50px;
+    font-size: 32pt;
+}
+
+.numBlock {
+    display:inline-block;
+    width: 400px;
+}
+.CalcBox {
+    margin-top: 50px;
+    width: 500px;
+    padding: 20px;
+    border-radius: 30px;
+        box-shadow: 0px 0px 140px;
+        -webkit-box-shadow: 0px 0px 140px;
+        -moz-box-shadow: 0px 0px 140px;
+        -o-box-shadow: 0px 0px 140px;
+        -ms-box-shadow: 0px 0px 140px;
+    background-color: dimgray;
+}
+.CalcBox:hover{
+    box-shadow: 0px 0px 155px;
+        -webkit-box-shadow: 0px 0px 155px;
+        -moz-box-shadow: 0px 0px 155px;
+        -o-box-shadow: 0px 0px 155px;
+        -ms-box-shadow: 0px 0px 155spx;
+}
+
+body {
+    
+}
+
+.data_scr {
+    padding: 0 5px;
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 450px;
+    border-radius: 5px;
+    font-size: 48pt;
+}

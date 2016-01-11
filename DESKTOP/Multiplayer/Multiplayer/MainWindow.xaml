@@ -1,0 +1,16 @@
+﻿<Window x:Class="Multiplayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Multiplayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="327.754" Width="231.355">
+    <Grid>
+        <Button x:Name="Game1" Content="Guess number" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top" Width="197" Height="73" Click="Game1_Click"/>
+        <Button x:Name="Game2" Content="Guess where click" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" Width="197" Height="73" Click="Game2_Click"/>
+        <Button x:Name="Game3" Content="Game3" HorizontalAlignment="Left" Margin="10,203,0,0" VerticalAlignment="Top" Width="197" Height="73" Click="Game3_Click"/>
+        <Label x:Name="label" Content="Choose game&#xD;&#xA;" HorizontalAlignment="Left" Margin="25,1,0,0" VerticalAlignment="Top" Width="165" FontSize="24" FontWeight="Bold" Height="46"/>
+
+    </Grid>
+</Window>

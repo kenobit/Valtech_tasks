@@ -1,0 +1,9 @@
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\bin\Debug\FlyingBallWF.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\obj\Debug\FlyingBallWF.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\obj\Debug\FlyingBallWF.mainForm.resources
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\obj\Debug\FlyingBallWF.Properties.Resources.resources
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\obj\Debug\FlyingBallWF.csproj.GenerateResource.Cache
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\bin\Debug\FlyingBallWF.exe
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\bin\Debug\FlyingBallWF.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\obj\Debug\FlyingBallWF.exe
+C:\Dropbox\ValtechProjects\DESKTOP\FlyingBallWF\FlyingBallWF\obj\Debug\FlyingBallWF.pdb

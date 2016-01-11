@@ -1,0 +1,16 @@
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\bin\Debug\TwoPlayers.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\bin\Debug\TwoPlayers.exe
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\bin\Debug\TwoPlayers.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\MainWindow.g.cs
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\App.g.cs
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers_MarkupCompile.cache
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers_MarkupCompile.lref
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\MainWindow.baml
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers.g.resources
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers.Properties.Resources.resources
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers.csproj.GenerateResource.Cache
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers.exe
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\TwoPlayers.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\Game1.g.cs
+C:\Dropbox\ValtechProjects\DESKTOP\TwoPlayers\TwoPlayers\obj\Debug\Game1.baml

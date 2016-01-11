@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Dropbox\ValtechProjects\DESKTOP\Graphs\nUnitTests\bin\Debug\nUnitTests.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-13" time="22:52:13">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8670" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\Dropbox\ValtechProjects\NUnit-2.6.4\bin" machine-name="KENOBIT_LAPTOP" user="Oleksandr" user-domain="KENOBIT_LAPTOP" />
+  <culture-info current-culture="uk-UA" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="D:\Dropbox\ValtechProjects\DESKTOP\Graphs\nUnitTests\bin\Debug\nUnitTests.dll" executed="True" result="Success" success="True" time="0.025" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="nUnitTests" executed="True" result="Success" success="True" time="0.024" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.023" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="AddNode_error" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                <results>
+                  <test-case name="nUnitTests.TestClass.AddNode_error()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="AddNode_exception_error" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="nUnitTests.TestClass.AddNode_exception_error()" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="ToString_error" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="nUnitTests.TestClass.ToString_error()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="ToStringEmpty_error" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="nUnitTests.TestClass.ToStringEmpty_error()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="ToStringNull_error" executed="True" result="Success" success="True" time="0.001" asserts="0">
+                <results>
+                  <test-case name="nUnitTests.TestClass.ToStringNull_error()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,9 @@
+D:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\bin\Debug\calcTest.exe.config
+D:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\bin\Debug\calcTest.exe
+D:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\bin\Debug\calcTest.pdb
+D:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\obj\Debug\calcTest.csprojResolveAssemblyReference.cache
+D:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\obj\Debug\calcTest.exe
+D:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\obj\Debug\calcTest.pdb
+C:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\bin\Debug\calcTest.exe.config
+C:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\obj\Debug\calcTest.exe
+C:\Dropbox\ValtechProjects\WEB\CalcTestProject\calcTest\calcTest\obj\Debug\calcTest.pdb

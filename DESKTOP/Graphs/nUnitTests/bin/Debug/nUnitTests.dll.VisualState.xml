@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1011]D:\Dropbox\ValtechProjects\DESKTOP\Graphs\nUnitTests\bin\Debug\nUnitTests.dll</TopNode>
+  <SelectedNode>[0-1011]D:\Dropbox\ValtechProjects\DESKTOP\Graphs\nUnitTests\bin\Debug\nUnitTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1011]D:\Dropbox\ValtechProjects\DESKTOP\Graphs\nUnitTests\bin\Debug\nUnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1012]nUnitTests" Expanded="true" />
+    <Node UniqueName="[0-1000]nUnitTests.TestClass" Expanded="true" />
+    <Node UniqueName="[0-1009]nUnitTests.TestClass.AddNode_error" Expanded="true" />
+    <Node UniqueName="[0-1007]nUnitTests.TestClass.AddNode_exception_error" Expanded="true" />
+    <Node UniqueName="[0-1005]nUnitTests.TestClass.ToString_error" Expanded="true" />
+    <Node UniqueName="[0-1003]nUnitTests.TestClass.ToStringEmpty_error" Expanded="true" />
+    <Node UniqueName="[0-1001]nUnitTests.TestClass.ToStringNull_error" Expanded="true" />
+  </Nodes>
+</VisualState>

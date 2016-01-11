@@ -1,0 +1,13 @@
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\chromedriver-license.txt
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\CalcTests.dll
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\CalcTests.pdb
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\nunit.framework.dll
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\SeleniumTestConsoleApp.exe
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\WebDriver.dll
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\SeleniumTestConsoleApp.pdb
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\nunit.framework.xml
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\bin\Debug\WebDriver.xml
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\obj\Debug\CalcTests.csprojResolveAssemblyReference.cache
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\obj\Debug\CalcTests.dll
+D:\Dropbox\ValtechProjects\DESKTOP\SeleniumTestConsoleApp\CalcTests\obj\Debug\CalcTests.pdb

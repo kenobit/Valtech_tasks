@@ -1,0 +1,14 @@
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Dropbox\ValtechProjects\DESKTOP\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

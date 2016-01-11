@@ -1,0 +1,5 @@
+C:\Dropbox\ValtechProjects\DESKTOP\HashProject\HashProject\bin\Debug\HashProject.dll
+C:\Dropbox\ValtechProjects\DESKTOP\HashProject\HashProject\bin\Debug\HashProject.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\HashProject\HashProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dropbox\ValtechProjects\DESKTOP\HashProject\HashProject\obj\Debug\HashProject.dll
+C:\Dropbox\ValtechProjects\DESKTOP\HashProject\HashProject\obj\Debug\HashProject.pdb

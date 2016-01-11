@@ -1,0 +1,14 @@
+C:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Arrays.exe.config
+C:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Arrays.exe
+C:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Arrays.pdb
+C:\Dropbox\ValtechProjects\ALists\Arrays\obj\Debug\Arrays.exe
+C:\Dropbox\ValtechProjects\ALists\Arrays\obj\Debug\Arrays.pdb
+D:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Arrays.exe.config
+D:\Dropbox\ValtechProjects\ALists\Arrays\obj\Debug\Arrays.exe
+D:\Dropbox\ValtechProjects\ALists\Arrays\obj\Debug\Arrays.pdb
+D:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Arrays.exe
+D:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Arrays.pdb
+D:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dropbox\ValtechProjects\ALists\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\ALists\Arrays\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dropbox\ValtechProjects\ALists\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\bin\Debug\AListTestModules.dll
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\bin\Debug\AListTestModules.pdb
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\bin\Debug\Arrays.exe
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\bin\Debug\Arrays.pdb
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\obj\Debug\AListTestModules.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\obj\Debug\AListTestModules.dll
+C:\Dropbox\ValtechProjects\ALists\AListTestModules\obj\Debug\AListTestModules.pdb

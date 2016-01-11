@@ -1,0 +1,18 @@
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\bin\Debug\balls.exe.config
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\bin\Debug\balls.exe
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\bin\Debug\balls.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\obj\Debug\balls.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\obj\Debug\balls.Form1.resources
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\obj\Debug\balls.Properties.Resources.resources
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\obj\Debug\balls.csproj.GenerateResource.Cache
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\obj\Debug\balls.exe
+c:\users\maxim\documents\visual studio 2015\Projects\balls\balls\obj\Debug\balls.pdb
+C:\Dropbox\ValtechProjects\balls\balls\bin\Debug\balls.exe.config
+C:\Dropbox\ValtechProjects\balls\balls\obj\Debug\balls.exe
+C:\Dropbox\ValtechProjects\balls\balls\obj\Debug\balls.pdb
+C:\Dropbox\ValtechProjects\balls\balls\bin\Debug\balls.exe
+C:\Dropbox\ValtechProjects\balls\balls\bin\Debug\balls.pdb
+C:\Dropbox\ValtechProjects\balls\balls\obj\Debug\balls.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\balls\balls\obj\Debug\balls.Form1.resources
+C:\Dropbox\ValtechProjects\balls\balls\obj\Debug\balls.Properties.Resources.resources
+C:\Dropbox\ValtechProjects\balls\balls\obj\Debug\balls.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Dropbox\ValtechProjects\DESKTOP\WebServer\WebServer\bin\Debug\WebServer.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\WebServer\WebServer\bin\Debug\WebServer.exe
+C:\Dropbox\ValtechProjects\DESKTOP\WebServer\WebServer\bin\Debug\WebServer.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\DESKTOP\WebServer\WebServer\obj\Debug\WebServer.exe
+C:\Dropbox\ValtechProjects\DESKTOP\WebServer\WebServer\obj\Debug\WebServer.pdb
